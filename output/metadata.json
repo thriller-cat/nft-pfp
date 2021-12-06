@@ -1,1 +1,23 @@
-{"0":{"name":"ThrillerCat#0","description":"ThrillerCat is an artwork inpired from the funny thriller cat video","image":"https://github.com/thriller-cat/nft-pfp/tree/main/output/0","attributes":[{"trait_type":"background","value":"blue"},{"trait_type":"body","value":"body"},{"trait_type":"head","value":"head"}]}}
+{
+    "name": "ThrillerCat",
+    "description": "ThrillerCat is an artwork inpired from the funny thriller cat video",
+    "image": "https://github.com/thriller-cat/nft-pfp/blob/main/output/thrillercat.png",
+    "attributes":[
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        },
+        {
+            "trait_type":"background",
+            "value":"blue"
+        },
+        {
+            "trait_type":"body",
+            "value":"body"
+        },
+        {
+            "trait_type":"head",
+            "value":"head"
+        }
+    ]
+}
