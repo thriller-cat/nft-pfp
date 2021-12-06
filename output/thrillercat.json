@@ -1,7 +1,7 @@
 {
     "name": "ThrillerCat",
     "description": "ThrillerCat is an artwork inpired from the funny thriller cat video",
-    "image": "https://github.com/thriller-cat/nft-pfp/blob/main/output/thrillercat.png",
+    "image": "https://raw.githubusercontent.com/thriller-cat/nft-pfp/main/output/thrillercat.png",
     "attributes":[
         {
             "trait_type": "cuteness",
